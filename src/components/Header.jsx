@@ -95,10 +95,7 @@ export function Header() {
         <nav className="relative z-50 flex justify-between">
           <div className="flex items-center md:gap-x-12">
             <Link href="/" aria-label="Home">
-              {/* <Logo className="h-10 w-auto" /> */}
-              <h2
-                className="text-white text-2xl font-bold"
-              >LA Contracting</h2>
+              <Logo className="h-10 w-auto" />
             </Link>
             <div className="hidden md:flex md:gap-x-6">
               <NavLink href="/#pricing">Services</NavLink>

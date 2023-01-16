@@ -11,7 +11,7 @@ const testimonials = [
   [
     {
       content:
-        'LA Contracting did an outstanding job on our new commercial building. Their team was professional, efficient, and very easy to work with. We highly recommend them to anyone in need of construction services.',
+        'Blue Horizon Construction did an outstanding job on our new commercial building. Their team was professional, efficient, and very easy to work with. We highly recommend them to anyone in need of construction services.',
       author: {
         name: 'Sheryl Berge',
         role: 'CEO at Lynch LLC',
@@ -20,7 +20,7 @@ const testimonials = [
     },
     {
       content:
-        'We recently hired LA Contracting for a site preparation project and were extremely impressed with the results. They exceeded our expectations and finished the job on time and on budget. We will definitely be using them for future projects.',
+        'We recently hired Blue Horizon Construction for a site preparation project and were extremely impressed with the results. They exceeded our expectations and finished the job on time and on budget. We will definitely be using them for future projects.',
       author: {
         name: 'Amy Hahn',
         role: 'Director at Velocity Industries',
@@ -31,7 +31,7 @@ const testimonials = [
   [
     {
       content:
-        'Our company hired LA Contracting for a large-scale heavy construction project and they did not disappoint. Their team was knowledgeable, experienced and always willing to go the extra mile to make sure we were satisfied.',
+        'Our company hired Blue Horizon Construction for a large-scale heavy construction project and they did not disappoint. Their team was knowledgeable, experienced and always willing to go the extra mile to make sure we were satisfied.',
       author: {
         name: 'Leland Kiehn',
         role: 'Founder of Kiehn and Sons',
@@ -40,7 +40,7 @@ const testimonials = [
     },
     {
       content:
-        'We have been using LA Contracting for all of our snow clearing and salting needs for the past few years. They are reliable, professional and always do a great job. We highly recommend them.',
+        'We have been using Blue Horizon Construction for all of our snow clearing and salting needs for the past few years. They are reliable, professional and always do a great job. We highly recommend them.',
       author: {
         name: 'Erin Powlowski',
         role: 'COO at Armstrong Inc',
@@ -51,7 +51,7 @@ const testimonials = [
   [
     {
       content:
-        'I recently hired LA Contracting for a drainage project at my property. They were extremely professional and efficient. The project was completed on time and exceeded my expectations.',
+        'I recently hired Blue Horizon Construction for a drainage project at my property. They were extremely professional and efficient. The project was completed on time and exceeded my expectations.',
       author: {
         name: 'Peter Renolds',
         role: 'Founder of West Inc',
@@ -60,7 +60,7 @@ const testimonials = [
     },
     {
       content:
-        "LA Contracting recently completed a demolition project for us and we couldn't be happier with the results. Their team was professional and efficient, and they went above and beyond to ensure we were satisfied with the job.",
+        "Blue Horizon Construction recently completed a demolition project for us and we couldn't be happier with the results. Their team was professional and efficient, and they went above and beyond to ensure we were satisfied with the job.",
       author: {
         name: 'Amy Hahn',
         role: 'Director at Velocity Industries',
@@ -91,7 +91,7 @@ export function Testimonials() {
             See what our satisfied clients have to say about us.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-            At LA Contracting, customer satisfaction is our top priority. Read
+            At Blue Horizon Construction, customer satisfaction is our top priority. Read
             on to see what some of our satisfied customers have to say about
             working with us.
           </p>

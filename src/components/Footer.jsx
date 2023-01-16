@@ -30,7 +30,7 @@ export function Footer() {
           ))}
         </nav>
         <p className="mt-10 text-center text-xs leading-5 text-white">
-          &copy; {year} LA Contracting, Inc. All rights reserved.
+          &copy; {year} Blue Horizon Construction, Inc. All rights reserved.
         </p>
       </div>
     </footer>

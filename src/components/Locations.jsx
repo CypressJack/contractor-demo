@@ -40,9 +40,9 @@ export function Locations() {
                 <HomeIcon className="h-6 w-6 text-white" aria-hidden="true" />
               </div>
               <div className="ml-3 text-base text-white">
-                <p>278 - 66A St.</p>
-                <p>Delta, BC</p>
-                <p>V4L 1M5</p>
+                <p>1234 - Example St.</p>
+                <p>Somewhere, BC</p>
+                <p>O0O 0O0</p>
               </div>
             </div>
             <div className="mt-6 flex">
@@ -83,9 +83,9 @@ export function Locations() {
                 <HomeIcon className="h-6 w-6 text-white" aria-hidden="true" />
               </div>
               <div className="ml-3 text-base text-white">
-                <p>278 - 66A St.</p>
-                <p>Delta, BC</p>
-                <p>V4L 1M5</p>
+              <p>1234 - Example St.</p>
+                <p>Somewhere, BC</p>
+                <p>O0O 0O0</p>
               </div>
             </div>
             <div className="mt-6 flex">

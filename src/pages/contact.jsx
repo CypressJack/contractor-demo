@@ -15,10 +15,10 @@ export default function Contact() {
   return (
     <>
       <Head>
-        <title>LA Contracting | Excavation Contractor Vancouver</title>
+        <title>Blue Horizon Construction | Excavation Contractor Vancouver</title>
         <meta
           name="description"
-          content="LA Contracting Ltd is an excavation contractor that has been serving residential, commercial and industrial customers in the Metro Vancouver area since 1998."
+          content="Blue Horizon Construction Ltd is an excavation contractor that has been serving residential, commercial and industrial customers in the Metro Vancouver area since 1998."
         />
       </Head>
       <div className="flex flex-col justify-between h-screen">
